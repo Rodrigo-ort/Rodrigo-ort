@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá mundo! 👋
+## Me chamo Rodrigo e este é o meu repositório de projetos pessoais e estudos.
 
-<!--
-**Rodrigo-ort/Rodrigo-ort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+- 🎓 Formado em Sistemas para Internet
+- 🔭 Atualmente trabalho como Desenvolvedor Back-end e Analista de Dados
+- 📊 Cursando MBA em Data Science & Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-ort&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-ort&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+##
+
+#### Faz um tempo que não contribuo aqui, estive direcionando meu foco apenas a projetos de repositórios corporativos (e.g. Gitlab). 
+#### Porém pretendo trazer novas atualizações, trazendo projetos interessantes e compartilhando um pouco do meu estudo :)
